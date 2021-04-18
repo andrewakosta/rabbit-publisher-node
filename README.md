@@ -1,0 +1,1 @@
+# rabbit-publisher-node
