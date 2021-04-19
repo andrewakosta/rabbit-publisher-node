@@ -1,0 +1,24 @@
+{
+  "name": "rabbit-publisher-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewakosta/rabbit-publisher-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewakosta/rabbit-publisher-node/issues"
+  },
+  "homepage": "https://github.com/andrewakosta/rabbit-publisher-node#readme",
+  "dependencies": {
+    "amqplib": "^0.7.1",
+    "colors": "^1.4.0"
+  }
+}
